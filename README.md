@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Muhammad+Asyrafi+Hidayatullah!;Welcome+to+my+GitHub+profile!&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
+<!-- Purple wave divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header&animation=fadeIn" width="100%">
+</div>
+
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
@@ -21,6 +26,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<!-- Animated purple line -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="75%">
+</div>
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -38,6 +48,11 @@
   </a>
 </p>
 
+<!-- Purple glow divider -->
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Gradient Separator" width="75%" style="filter: hue-rotate(270deg);">
+</p>
+
 <h2 align="center">💻 Tech Stack</h2>
 
 <h3 align="center">Programming Languages</h3>
@@ -51,6 +66,11 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </p>
 
+<!-- Animated stars divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/borderseperator.gif" width="100%">
+</div>
+
 <h3 align="center">Frameworks & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
@@ -61,12 +81,22 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
+<!-- Purple particles divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
 <h3 align="center">Databases</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
 </p>
+
+<!-- Purple glowing line -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <h3 align="center">Design Tools</h3>
 <p align="center">
@@ -76,6 +106,11 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
 </p>
+
+<!-- Purple wave animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=9370DB&height=80&section=footer&animation=twinkling" width="100%">
+</div>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -92,6 +127,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=4syr&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
+<!-- Purple vinyl animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=4syr&theme=tokyo-night" alt="Contribution Graph" width="100%"/>
 </div>
@@ -100,6 +140,11 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
+
+<!-- Purple coding animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</div>
 
 <hr>
 
@@ -110,4 +155,9 @@
   </a>
 </p>
 
-<!-- Proudly created with 💙 by Muhammad Asyrafi -->
+<!-- Footer with purple gradient -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer&animation=fadeIn" width="100%">
+</div>
+
+<!-- Proudly created with 💜 by Muhammad Asyrafi -->
