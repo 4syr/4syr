@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Asyrafi!;Welcome+to+my+GitHub+profile!&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Asyrafi!;Welcome+to+my+GitHub+profile!;Let's+collaborate+on+something+amazing!&center=true&width=450&height=50&duration=3500&pause=1000&font=Fira%20Code&color=9370DB&size=22">
 </div>
 
-<!-- Purple wave divider -->
+<!-- Enhanced purple wave divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=50" width="100%">
 </div>
 
 <h1 align="center">💫 About Me</h1>
@@ -22,13 +22,14 @@
   <b>Let's connect! 🚀</b>
 </p>
 
+<!-- Enhanced animated coder gif -->
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120" alt="Coder"/>
 </div>
 
-<!-- Animated purple line -->
+<!-- Animated purple line with particles -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="75%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <h2 align="center">🌐 Connect With Me</h2>
@@ -155,9 +156,12 @@
   </a>
 </p>
 
-<!-- Footer with purple gradient -->
+<!-- New thank you animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer&animation=fadeIn" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
 </div>
 
-<!-- Proudly created with 💜 by Muhammad Asyrafi -->
+<!-- Enhanced footer with purple gradient -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer&animation=twinkling&text=Thank%20You%20For%20Visiting!&fontColor=ffffff&fontSize=25" width="100%">
+</div>
