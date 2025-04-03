@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Muhammad+Asyrafi!;Welcome+to+my+GitHub+profile!&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Muhammad+Asyrafi+Hidayatullah!;Welcome+to+my+GitHub+profile!&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 
 <h1 align="center">💫 About Me</h1>
