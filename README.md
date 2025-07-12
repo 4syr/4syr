@@ -6,7 +6,7 @@ Hello! I'm Muhammad Asyrafi Hidayatullah, a passionate aspiring Java Full Stack 
 
 ## Skills
 
-- **Programming Languages:** Java, JavaScript
+- **Programming Languages:** Java, JavaScript, C, C++, Pawn (SA-MP)
 - **Frameworks:** Spring Boot, React
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, Docker, IntelliJ IDEA
