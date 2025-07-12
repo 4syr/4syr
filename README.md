@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Muhammad Asyrafi Hidayatullah, a passionate aspiring Java Full Stack Developer and UI/UX enthusiast. I am currently on a journey to master the art of programming and design, with a focus on creating intuitive and efficient user experiences.
+Hello! I'm Muhammad Asyrafi Hidayatullah, a passionate aspiring Full Stack Developer and UI/UX enthusiast. I am currently on a journey to master the art of programming and design, with a focus on creating intuitive and efficient user experiences.
 
 ## Skills
 
