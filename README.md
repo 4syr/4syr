@@ -20,7 +20,7 @@ Hello! I'm Muhammad Asyrafi Hidayatullah, a passionate aspiring Full Stack Devel
 
 ## Goals
 
-My ultimate goal is to become a proficient Java Full Stack Developer and UI/UX Designer, contributing to innovative projects and creating seamless user experiences.
+My ultimate goal is to become a proficient Full Stack Developer and UI/UX Designer, contributing to innovative projects and creating seamless user experiences.
 
 ---
 
